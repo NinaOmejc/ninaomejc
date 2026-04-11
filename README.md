@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, I’m Nina, a PhD student in Computer Science at the Jožef Stefan Institute.
 
 ## Languages and Tools
 
