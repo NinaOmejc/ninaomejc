@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m Nina, a PhD student in Computer Science at the Jožef Stefan Institute in Ljubljana. Building on prior training in neuroscience, I work on computational modelling, machine learning, and signal analysis for EEG and other physiological data (e.g., EMG and respiratory signals).
+Hi, I’m Nina, a PhD student in Computer Science at the Jožef Stefan Institute in Ljubljana. Building on prior training in neuroscience, I work on signal analysis, machine learning, and computational modelling for EEG and other physiological data (e.g., EMG and respiratory signals).
 
 Here are some of my projects:
 - 🧠 [ENEEGMA](https://github.com/NinaOmejc/ENEEGMA) - Exploration of Neural population models for EEG data.
