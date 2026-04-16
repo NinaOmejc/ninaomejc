@@ -5,7 +5,7 @@ Hi, I’m Nina, a PhD student in Computer Science at the Jožef Stefan Institute
 Here are some of my projects:
 - 🧠 [ENEEGMA](https://github.com/NinaOmejc/ENEEGMA) - Automated Exploration of Neural population models for EEG data.
 - ⚡  [NeurIPS EEG Foundation Challenge participation](https://github.com/NinaOmejc/eeg-neurips-challenge) - Our work for the NeurIPS EEG Foundation Challenge.
-- 🦵   [Cortico-muscular connectivity analysis](https://github.com/NinaOmejc/your-corticomuscular-repo-name) - Cortico-muscular connectivity analysis.
+- 🦵   [Cortico-muscular connectivity analysis](https://github.com/NinaOmejc/cmcpd) - Cortico-muscular connectivity analysis.
 - 🫁  [MAGMA project](https://github.com/NinaOmejc/magma-labeling) - Physiological signal analysis and machine learning (coming soon).
 - 💻 [ProGED](https://github.com/brencej/ProGED) - Extended Probabilistic Generative Equation Discovery with support for differential equations.
 
